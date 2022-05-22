@@ -1,5 +1,9 @@
-const { clickElement } = require("./lib/commands.js");
-const { getText } = require("./lib/commands.js");
+const {
+  clickElement
+} = require("./lib/commands.js");
+const {
+  getText
+} = require("./lib/commands.js");
 
 let page;
 
